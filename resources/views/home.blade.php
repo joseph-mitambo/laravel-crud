@@ -5,7 +5,7 @@
 
 	<link rel="shortcut icon" href="/images/icon1">
 
-	<link rel="stylesheet" href="css/stylesheet.css">
+	<link rel="stylesheet" href="{{asset('assets/css/visitors.css')}}">
 
 	<meta charset="utf-8">
 
